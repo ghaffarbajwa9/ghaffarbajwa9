@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdul Ghaffar
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on small scale to large applicatoins
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently freelance full-stack web developer with django and reactjs | vuejs
+- 💞️ I develop small scale to large applications, that provide state-of-the-art business solutions
 - 📫 You can reach me ghaffarbajwa9@gmail.com
 
 <!---
