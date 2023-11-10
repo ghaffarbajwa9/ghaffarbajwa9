@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Ghaffar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently freelance full-stack web developer with django and reactjs | vuejs
+- 🌱 I’m currently a freelance full-stack web developer with Ruby on Rails and Reactjs
 - 💞️ I develop small scale to large applications, that provide state-of-the-art business solutions
 - 📫 You can reach me ghaffarbajwa9@gmail.com
 
