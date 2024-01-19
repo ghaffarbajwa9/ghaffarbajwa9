@@ -1,4 +1,4 @@
-Greetings! I'm Abdul Ghaffar, a passionate and results-driven full-stack developer with expertise in both Ruby on Rails and React.js. Over the past many years, I've successfully delivered robust and scalable web applications, utilizing my strong proficiency in backend and frontend technologies.
+Greetings! I'm Abdul Ghaffar, a passionate and results-driven full-stack developer with expertise in Ruby on Rails and React.js. Over the past many years, I've successfully delivered robust and scalable web applications, utilizing my strong proficiency in backend and frontend technologies.
 
 Technical Skills:
 Ruby on Rails: Expertise in building RESTful APIs, MVC architecture, and database design.
