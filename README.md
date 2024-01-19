@@ -17,7 +17,7 @@ Continuous Learning: In the dynamic world of technology, I stay updated with the
 Let's Discuss Your Project:
 Whether you need a full-stack solution or assistance with specific aspects of your project, I am ready to bring my skills and dedication to the table. Let's schedule a call to discuss how I can contribute to the success of your project.
 
-I look forward to the opportunity of working together and turning your ideas into reality!tions, that provide state-of-the-art business solutions.
+I look forward to the opportunity of working together and turning your ideas into reality.
 - 📫 You can reach me ghaffarbajwa9@gmail.com
 
 <!---
