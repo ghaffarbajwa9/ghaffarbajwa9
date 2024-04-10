@@ -1,26 +1,12 @@
-Greetings! I'm Abdul Ghaffar, a passionate and results-driven full-stack developer with expertise in Ruby on Rails and React.js. Over the past many years, I've successfully delivered robust and scalable web applications, utilizing my strong proficiency in backend and frontend technologies.
 
-Technical Skills:
-Ruby on Rails: Expertise in building RESTful APIs, MVC architecture, and database design.
-React.js: Extensive experience in creating interactive and responsive user interfaces.
-JavaScript/ES6: Proficient in modern JavaScript, ensuring smooth client-side functionality.
-HTML5/CSS3: Strong foundation in creating visually appealing and accessible web pages.
-PostgreSQL/MySQL: In-depth knowledge of database management and optimization.
-Version Control/Git: Effective collaboration using version control systems for seamless project management.
+# 💻 Tech Stack:
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ghaffarbajwa9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ghaffarbajwa9&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghaffarbajwa9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Why Choose Me:
-Proven Track Record: I have a history of delivering high-quality projects on time and within budget.
-Communication: I believe in transparent and open communication to ensure your project's success.
-Collaborative Approach: I work closely with clients to understand their unique requirements and tailor solutions accordingly.
-Continuous Learning: In the dynamic world of technology, I stay updated with the latest trends and best practices.
+---
+[![](https://visitcount.itsvg.in/api?id=ghaffarbajwa9&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Let's Discuss Your Project:
-Whether you need a full-stack solution or assistance with specific aspects of your project, I am ready to bring my skills and dedication to the table. Let's schedule a call to discuss how I can contribute to the success of your project.
-
-I look forward to the opportunity of working together and turning your ideas into reality.
-- 📫 You can reach me ghaffarbajwa9@gmail.com
-
-<!---
-ghaffarbajwa9/ghaffarbajwa9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
